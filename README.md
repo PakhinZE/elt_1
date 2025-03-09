@@ -1,8 +1,8 @@
 Tool
-	- PostgreSQL
-	- Docker
-	- dbt
-	- Airflow
+ - PostgreSQL
+ - Docker
+ - dbt
+ - Airflow
 
 move .dbt folder to home directory\
 when change elt_dag.py need to rebuild elt-custom_dbt\
