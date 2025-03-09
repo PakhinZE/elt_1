@@ -1,0 +1,1 @@
+SELECT * fROM {{source('destination_db', 'films')}}
